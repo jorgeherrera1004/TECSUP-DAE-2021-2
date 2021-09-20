@@ -1,3 +1,2 @@
 # TECSUP-DAE-2021-2
-
-new
+Laboratorios del curso de Desarrollo de Aplicaciones Empresariales 2021-2 Jorge Sebastian Herrera Jara
